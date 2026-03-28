@@ -23,9 +23,11 @@ p, li {
 	padding: 20px;
 }
 
-h1, h3, p {
+h1, p {
 	margin-bottom:  20px;
 }
+
+
 
 ul, ol {
 	margin-left: 20px;
