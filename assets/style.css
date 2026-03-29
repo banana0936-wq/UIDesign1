@@ -7,7 +7,7 @@
 /* adjusting fonts */
 
 body {
-	font-family: -apple-system, BlinkMacSystemFont, helvetica, arial, sans-serif;
+	font-family: 'Micro 5', monospace;
 	transition: background 500ms ease;
 	background-color: lemonchiffon;
 }
@@ -22,6 +22,8 @@ p, li {
 #left-column {
 	padding: 20px;
 }
+
+h1{font-size: 48px}
 
 h1, h3, p {
 	margin-bottom:  20px;
