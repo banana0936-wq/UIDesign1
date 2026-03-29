@@ -61,7 +61,7 @@ img {
 #cinema-pic {
   position: absolute;
   width: 700px;
-  top: 50px;
+  bottom: 60px;
   right: 30px;
 }
 
