@@ -48,14 +48,33 @@ img {
 	height:  auto;
 }
 
+
 #collage {
-  position: relative;
-  height: 600px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
 }
 
-.pic {
+#cinema-pic {
   position: absolute;
-  width: 100px;
+  width: 400px;
+  top: 50px;
+  right: 20px;
+}
+
+#eggs {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  display: flex;
+  gap: 10px;
+}
+
+.egg {
+  width: 80px;
 }
 
 /* uncomment the code below to set the grid */
