@@ -23,10 +23,17 @@ p, li {
 	padding: 20px;
 }
 
-h1{font-size: 80px}
+h1{
+	font-size: 80px;
+	letter-spacing: 4px;
+}
 
 h1, h3, p {
 	margin-bottom:  20px;
+}
+
+h3{
+	margin-top: 40px;
 }
 
 
