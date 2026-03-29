@@ -60,9 +60,9 @@ img {
 
 #cinema-pic {
   position: absolute;
-  width: 400px;
+  width: 700px;
   top: 50px;
-  right: 20px;
+  right: 30px;
 }
 
 #eggs {
@@ -74,7 +74,7 @@ img {
 }
 
 .egg {
-  width: 80px;
+  width: 200px;
 }
 
 /* uncomment the code below to set the grid */
