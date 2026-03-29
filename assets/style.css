@@ -48,6 +48,16 @@ img {
 	height:  auto;
 }
 
+#collage {
+  position: relative;
+  height: 600px;
+}
+
+.pic {
+  position: absolute;
+  width: 200px;
+}
+
 /* uncomment the code below to set the grid */
 
 /*#grid {
